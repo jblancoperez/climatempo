@@ -3,22 +3,15 @@ MetroSaoPaulo
 
 * Author: Julio Blanco
 
-Original work by: Renato Lipi, Ale Borba and Bu Kinoshita
 
 Version: 0.0.1
 
 Description
 -------------------------
-Code to get a simple dictionary with lines and statues from the Official web of "Metro de São Paulo".
 
+Simple wrapper over climatempo basic api
 Originally written for a home assistant sensor
 
-Credits
-
-Renato Lipi and Ale Borba for the first python implementation that I see and Bu Kinoshita for the actual way of getting the data from the site
-
-You can reach the original developments in https://github.com/renatolipi/status_metro_sp 
-and  https://github.com/bukinoshita/metrosp-status
 
 
 License
